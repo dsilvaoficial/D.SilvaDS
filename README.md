@@ -1,6 +1,6 @@
+<div align="center">
 # dsilvaoficial
 
-<div align="center">
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 </div>
 
