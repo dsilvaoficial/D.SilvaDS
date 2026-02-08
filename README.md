@@ -4,7 +4,7 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 </div>
 
-## 👨‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou **Desenvolvedora de Software Júnior**, com foco em **chatbots, automação de processos e integração com Inteligência Artificial**. Tenho experiência prática no desenvolvimento de soluções utilizando **Python, JavaScript, APIs REST e IA Generativa**, aplicando esses conhecimentos em projetos de automação e assistentes inteligentes.
 
