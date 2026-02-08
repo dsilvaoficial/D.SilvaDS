@@ -2,8 +2,11 @@
 
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+
 </div>
 
+
+<div align="center">
 
 ## 👩‍💻 Sobre mim
 
@@ -21,6 +24,8 @@ Tenho especial interesse em:
 Sou uma pessoa curiosa, dedicada ao aprendizado contínuo e motivada a crescer profissionalmente, sempre buscando aplicar boas práticas de desenvolvimento e criar soluções que gerem valor para usuários e empresas.
 
 Atualmente, busco oportunidades como **Desenvolvedor Júnior**, especialmente em projetos voltados para **IA, automação, chatbots e integrações**.
+
+</div>
 
 ---
 
