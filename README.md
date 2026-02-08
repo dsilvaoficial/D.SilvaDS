@@ -4,6 +4,7 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 </div>
 
+
 ## 👩‍💻 Sobre mim
 
 Sou **Desenvolvedora de Software Júnior**, com foco em **chatbots, automação de processos e integração com Inteligência Artificial**. Tenho experiência prática no desenvolvimento de soluções utilizando **Python, JavaScript, APIs REST e IA Generativa**, aplicando esses conhecimentos em projetos de automação e assistentes inteligentes.
@@ -23,9 +24,12 @@ Atualmente, busco oportunidades como **Desenvolvedor Júnior**, especialmente em
 
 ---
 
+<div align="center">
+
+
 ## 🛠️ Tecnologias e conhecimentos
 
-<div align="center">
+
 - **Linguagens:** Python, JavaScript  
 - **Chatbots & IA:** IA Generativa, LLMs, criação de prompts, integração com APIs de IA  
 - **Web:** HTML, CSS, JavaScript  
@@ -47,7 +51,9 @@ Neste GitHub você encontrará projetos voltados para:
 - Aplicações web desenvolvidas durante imersões práticas  
 
 Cada projeto possui um **README detalhado**, explicando o objetivo, as tecnologias utilizadas e o que foi aprendido durante o desenvolvimento.
+
 </div>
+
 ---
 
 ## 🎯 Objetivo profissional
@@ -57,6 +63,10 @@ Atuar como **Desenvolvedora de Software Júnior**, contribuindo em projetos de *
 ---
 
 📫 **Vamos conversar?**  
+
 <div align="center">
+  
 Fique à vontade para explorar meus projetos ou entrar em contato!
+
 </div>
+
