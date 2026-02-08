@@ -41,13 +41,15 @@ Atualmente, busco oportunidades como **Desenvolvedor Júnior**, especialmente em
 - **Integrações:** APIs REST, consumo de dados em JSON  
 - **Versionamento:** Git e GitHub  
 - **Outros:** lógica de programação, automação de processos  
-- **Aprendizado contínuo:** imersões práticas em IA, Front-end, Back-end, DevOps e Cloud  
+- **Aprendizado contínuo:** imersões práticas em IA, Front-end, Back-end, DevOps e Cloud
 </div>
+
 ---
 
+<div align="center">
+  
 ## 📂 Projetos
 
-<div align="center">
 Neste GitHub você encontrará projetos voltados para:
 
 - Chatbots e assistentes inteligentes  
@@ -61,17 +63,19 @@ Cada projeto possui um **README detalhado**, explicando o objetivo, as tecnologi
 
 ---
 
+<div align="center">
+  
 ## 🎯 Objetivo profissional
 
 Atuar como **Desenvolvedora de Software Júnior**, contribuindo em projetos de **chatbots, automação e Inteligência Artificial**, enquanto evoluo tecnicamente em ambientes colaborativos, inovadores e orientados a boas práticas.
+</div>
 
 ---
 
+<div align="center">
+
 📫 **Vamos conversar?**  
 
-<div align="center">
-  
 Fique à vontade para explorar meus projetos ou entrar em contato!
-
 </div>
 
