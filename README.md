@@ -1,6 +1,8 @@
+<div align="center">
 # D.SilvaDS
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+</div>
 
 ## 👨‍💻 Sobre mim
 
@@ -23,6 +25,7 @@ Atualmente, busco oportunidades como **Desenvolvedor Júnior**, especialmente em
 
 ## 🛠️ Tecnologias e conhecimentos
 
+<div align="center">
 - **Linguagens:** Python, JavaScript  
 - **Chatbots & IA:** IA Generativa, LLMs, criação de prompts, integração com APIs de IA  
 - **Web:** HTML, CSS, JavaScript  
@@ -30,11 +33,12 @@ Atualmente, busco oportunidades como **Desenvolvedor Júnior**, especialmente em
 - **Versionamento:** Git e GitHub  
 - **Outros:** lógica de programação, automação de processos  
 - **Aprendizado contínuo:** imersões práticas em IA, Front-end, Back-end, DevOps e Cloud  
-
+</div>
 ---
 
 ## 📂 Projetos
 
+<div align="center">
 Neste GitHub você encontrará projetos voltados para:
 
 - Chatbots e assistentes inteligentes  
@@ -43,7 +47,7 @@ Neste GitHub você encontrará projetos voltados para:
 - Aplicações web desenvolvidas durante imersões práticas  
 
 Cada projeto possui um **README detalhado**, explicando o objetivo, as tecnologias utilizadas e o que foi aprendido durante o desenvolvimento.
-
+</div>
 ---
 
 ## 🎯 Objetivo profissional
@@ -53,4 +57,6 @@ Atuar como **Desenvolvedora de Software Júnior**, contribuindo em projetos de *
 ---
 
 📫 **Vamos conversar?**  
+<div align="center">
 Fique à vontade para explorar meus projetos ou entrar em contato!
+</div>
